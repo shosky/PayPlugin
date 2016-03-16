@@ -1,6 +1,6 @@
 /**
 *
-* 这是注释
+* 这是注释22
 */
 
 var exec = require('cordova/exec');
