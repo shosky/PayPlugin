@@ -3,7 +3,7 @@
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>PayPlugin</name>
-    <description>微信支付插件ByPing++</description>
+    <description>微信支付插件3ByPing++</description>
     <js-module name="PayPlugin" src="www/PayPlugin.js">
         <clobbers target="cordova.plugins.PayPlugin"/>
     </js-module>
