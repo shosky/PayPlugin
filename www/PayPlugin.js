@@ -1,3 +1,8 @@
+/**
+*
+* 这是注释
+*/
+
 var exec = require('cordova/exec');
 
 var PayPlugin = {
